@@ -13,6 +13,7 @@ VALID LOSS:0.8392 ACC:0.95 F1:0.72 REC:0.79 PRE:0.76: 100%|███████
 
 x
 dfasdf
+asdf
 
 
 

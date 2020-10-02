@@ -2895,7 +2895,7 @@ memenangi	O
 gelar	O
 Piala	B-EVT
 FA	I-EVT
-bersama	I
+bersama	O
 Chelsea	B-ORG
 pada	O
 2007	B-DAT
@@ -65646,7 +65646,7 @@ RANTEPAO	B-GPE
 Obyek	O
 wisata	O
 Limbong	B-PRD
-yang	I
+yang	O
 berada	O
 di	O
 Desa	B-GPE
@@ -81542,7 +81542,7 @@ Saudi	I-GPE
  	 
 Pemimpin	O
 OPEC	B-ORG
-ini	I
+ini	O
 mengingatkan	O
 kekurangan	O
 pasokan	O
@@ -92136,7 +92136,7 @@ jamblang	I-PRD
 ,	O
 mi	B-PRD
 kocok	I-PRD
-,	I
+,	O
 nasi	B-PRD
 lengko	I-PRD
 ,	O
@@ -92146,7 +92146,7 @@ gejrot	I-PRD
 tersaji	O
 setiap	O
 harinya	O
-di	I
+di	O
 Kedai	B-LOC
 Daun	I-LOC
 Semanggi	I-LOC
@@ -126618,7 +126618,7 @@ luas	O
 11	B-QTY
 ,	I-QTY
 5	I-QTY
-ini	I
+ini	O
 menjadi	O
 destinasi	O
 terluas	O
@@ -135369,7 +135369,7 @@ Kita	O
 nggak	O
 bisa	O
 memaksakan	O
-,	I
+,	O
 "	O
 kata	O
 Kasubbag	B-NOR
@@ -150355,7 +150355,7 @@ dan	O
 Puti	B-PER
 Guntur	I-PER
 Soekarno	I-PER
-.	I
+.	O
  	 
 Dalam	O
 rapat	O
@@ -204927,7 +204927,7 @@ bisa	O
 melihat	O
 hamparan	O
 sawah	O
-di	I
+di	O
 kiri	O
 -	O
 kanan	O
@@ -207107,7 +207107,7 @@ Lampung	I-GPE
 ,	O
 pantai	O
 ini	O
-biasa	I
+biasa	O
 ditempuh	O
 lebih	O
 cepat	O
@@ -237807,7 +237807,7 @@ GPS	I-PRD
 )	O
 .	O
 Hal	O
-ini	I
+ini	O
 dilakukan	O
 Grab	B-ORG
 dengan	O
@@ -291827,7 +291827,7 @@ Renang	I-PRD
 Resepsionis	O
 24	B-QTY
 Jam	I-QTY
-,	I
+,	O
 Restoran	O
 ,	O
 WiFi	B-PRD
@@ -295013,7 +295013,7 @@ pariwisata	O
 '	O
 Sendratari	B-WOA
 Ramayana	I-WOA
-'	I
+'	O
 oleh	O
 ISI	B-ORG
 Denpasar	I-ORG

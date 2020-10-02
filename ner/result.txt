@@ -12,7 +12,7 @@ indoBERT base 2
 VALID LOSS:0.8392 ACC:0.95 F1:0.72 REC:0.79 PRE:0.76: 100%|██████████| 14/14 [00:02<00:00,  5.15it/s](Epoch 8) VALID LOSS:0.8392 ACC:0.95 F1:0.72 REC:0.79 PRE:0.76
 
 x
-
+dfasdf
 
 
 
